@@ -1,0 +1,6 @@
+framework module ABVersion {
+  umbrella header "ABVersion-umbrella.h"
+
+  export *
+  module * { export * }
+}

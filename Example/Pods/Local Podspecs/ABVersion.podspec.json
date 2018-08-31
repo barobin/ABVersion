@@ -1,0 +1,22 @@
+{
+  "name": "ABVersion",
+  "version": "0.1.0",
+  "summary": "Simple class for version comparsion",
+  "description": "Working with application or system version",
+  "homepage": "https://github.com/barobin/ABVersion",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexander Barobin": "alexander@barob.in"
+  },
+  "source": {
+    "git": "https://github.com/barobin/ABVersion.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ABVersion/Classes/ABVersion.{h,m}"
+}

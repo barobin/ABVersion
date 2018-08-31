@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ABVersion_Example' do
+  pod 'ABVersion', :path => '../'
+
+  target 'ABVersion_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - ABVersion (0.1.0)
+
+DEPENDENCIES:
+  - ABVersion (from `../`)
+
+EXTERNAL SOURCES:
+  ABVersion:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ABVersion: 0e9b0d24c14c29bc488ea6a30908a65b3c0c82d3
+
+PODFILE CHECKSUM: e25c949856d1433e7a5e6f457f698c05a18727b8
+
+COCOAPODS: 1.5.3
